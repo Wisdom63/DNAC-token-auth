@@ -1,5 +1,3 @@
-# DNAC-token-auth
-DNAC token request
 import requests
 import json
 from getpass import getpass
